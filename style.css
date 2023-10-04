@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+background-image: url("./img/t1.jpg");
+height: 25rem;
+color: white;
+
+}
+
+h1{
+display: flex;
+justify-content: center;
+padding: 6%;
+}
+
+header p{
+display: flex;
+justify-content: center;
+}
+
+.btn{
+display: flex;
+justify-content: center;
+}
+
+h2{
+display: flex;
+justify-content: center;
+}
+.columna{
+column-count: 2;
+margin-top: 2rem;
+padding-left: 20%;
+padding-right: 20%;
+}
+.sec1{
+    background: white;
+    height: 12rem;
+    margin-top: 2rem;
+}
+
+
