@@ -22,9 +22,18 @@ justify-content: center;
 }
 
 .btn{
-display: flex;
-justify-content: center;
-}
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 45%;
+    height: 50px;
+    width: 120px;
+    align-items: center;
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(90, 96, 214);
+    text-decoration: none;
+    }
 
 h2{
 display: flex;
@@ -42,4 +51,17 @@ padding-right: 20%;
     margin-top: 2rem;
 }
 
+.sec2{
+    background-color: rgb(84, 84, 84);
+    height: 35rem;
+    column-count: 3;
+}
+.cards{
+    height:80% ;
+    width: 70%;
+    background-color: white;
+    
+
+  
+}
 
